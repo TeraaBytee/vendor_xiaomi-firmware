@@ -11,4 +11,3 @@ $(notdir \
 endef
 
 include vendor/xiaomi-firmware/begonia/firmware.mk
-include vendor/xiaomi-firmware/begonia/vendor.mk
